@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color:rgb(97, 88, 88);
+ }
+ li {
+    font-style:normal;
+    font-weight: normal;
+ }
+ a {
+    color:rgb(165, 81, 165);
+    text-decoration:none
+}
+a:hover {
+    text-decoration: dotted;
+    font-weight: bold;
+    font-size: 20px;
+}
+a:visited {
+    color: rgb(123, 184, 123);
+}
+ .bold {
+    font-weight: bolder;
+ }
+  .justify {text-align: justify;}
